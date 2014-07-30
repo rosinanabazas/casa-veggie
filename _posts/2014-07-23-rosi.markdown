@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Barritas de granola"
+date:   2014-07-23 09:48:13
+categories: rosi testing
+image: barrita1.jpg
+---
+
+<h2>Ingredientes</h2>
+<ul>
+    <li>60 gr mantequilla</li>
+    <li>2 cucharadas azúcar morena</li>
+    <li>4 cucharadas miel</li>
+    <li>2 cucharadas crema de mani</li>
+    <li>1 taza cereal de arroz inflado</li>
+    <li>2 tazas avena</li>               
+    <li>Chispas de chocolate</li>
+</ul>
+<h2>Elaboración</h2>
+<ol>
+    <li>Mezclar en un bowl la avena de cocción rápida y el cereal de arroz inflado. </li>
+    <li>En una olla mezclar la mantequilla, azúcar morena, miel y crema de mani.</li>
+    <li>Mezclar bien y dejar cocinar a fuego medio hasta que empiece a hervir y burbujear fuerte. Apagar el fuego y vaciar con cuidado sobre la avena y el arroz inflado.</li>
+    <li>Mezclar bien hasta que todo esté bien cubierto.</li>
+    <li>Vaciar en una bandeja para hornear o molde ligeramente engrasado.</li>
+    <li>Aplasta con las manos para que todo quede bien compacto del tamaño que tu elijas.</li>
+</ol>
+<h2>Notas</h2>
+<p>Tienes que aplastar muy bien las barritas. Es muy importante para que las barritas se compacten y se formen.</p>
+<p>No agregues muchos extras como chispas de chocolate y frutos porque pueden hacer que las barras se desmoronen y no se peguen bien. Es por eso que las chispas de chocolate van arriba. </p>                  
+
+      

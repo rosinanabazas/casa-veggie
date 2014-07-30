@@ -1,0 +1,20 @@
+<header>
+  <nav class="wrapper">
+    <a href="{{ "/" | prepend: site.baseurl }}">
+      <h1>
+        <img class="logo" src="{{ "/img/logo.png" | prepend: site.baseurl }}" alt="Casa Veggie">
+      </h1>
+    </a>
+      <ul class="main-nav">
+
+        {% for page in site.pages %}
+          {% if page.title %}
+            <li>
+              <a href="{{page.url}}">{{ page.link_title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+
+      </ul>
+  </nav>
+</header>
